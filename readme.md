@@ -272,8 +272,8 @@ For questions, suggestions, or collaboration opportunities:
 
 
 - **Email**: ndubisiprecious@gmail.com
-- **Linkedin**: (https://www.linkedin.com/in/ndubisi-precious/)
-- **Medium**: [Project Issues](https://medium.com/@ndubisiprecious)
+- **Linkedin**: [Linkedin Profile](https://www.linkedin.com/in/ndubisi-precious/)
+- **Medium**: [Medium Profile](https://medium.com/@ndubisiprecious)
 
 ---
 
