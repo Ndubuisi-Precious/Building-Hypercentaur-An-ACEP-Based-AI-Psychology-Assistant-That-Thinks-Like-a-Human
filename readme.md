@@ -261,7 +261,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgments
 
 - **Psych-101 Dataset**: Marcel Binz and team for the psychology Q&A dataset
-- **Hugging Face**: For dataset hosting and transformers library
+- **Hugging Face**: For dataset hosting and the transformers library
 - **NetworkX**: For graph-based concept modeling
 - **Streamlit**: For the interactive web interface
 - **MongoDB**: For robust data persistence
@@ -270,9 +270,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions, suggestions, or collaboration opportunities:
 
-- **GitHub Issues**: [Project Issues](https://github.com/yourname/hypercentaur/issues)
-- **Email**: your.email@domain.com
-- **Twitter**: @yourhandle
+
+- **Email**: ndubisiprecious@gmail.com
+- **Linkedin**: (https://www.linkedin.com/in/ndubisi-precious/)
+- **Medium**: [Project Issues](https://medium.com/@ndubisiprecious)
 
 ---
 
